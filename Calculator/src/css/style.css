@@ -1,0 +1,9 @@
+.button {
+    -fx-min-width: 40;
+    -fx-min-height: 40;
+}
+
+#btnClear {
+    -fx-background-color: 'red';
+    -fx-text-fill: 'yellow';
+}
